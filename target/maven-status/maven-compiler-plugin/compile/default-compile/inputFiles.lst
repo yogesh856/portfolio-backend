@@ -1,0 +1,14 @@
+C:\portfoliobackend\src\main\java\com\portfolio\portfolio_backend\config\CorsConfig.java
+C:\portfoliobackend\src\main\java\com\portfolio\portfolio_backend\config\DataSeeder.java
+C:\portfoliobackend\src\main\java\com\portfolio\portfolio_backend\config\MongoConfig.java
+C:\portfoliobackend\src\main\java\com\portfolio\portfolio_backend\config\WebConfig.java
+C:\portfoliobackend\src\main\java\com\portfolio\portfolio_backend\controller\ProfileController.java
+C:\portfoliobackend\src\main\java\com\portfolio\portfolio_backend\controller\ProjectController.java
+C:\portfoliobackend\src\main\java\com\portfolio\portfolio_backend\controller\SkillController.java
+C:\portfoliobackend\src\main\java\com\portfolio\portfolio_backend\model\Profile.java
+C:\portfoliobackend\src\main\java\com\portfolio\portfolio_backend\model\Project.java
+C:\portfoliobackend\src\main\java\com\portfolio\portfolio_backend\model\Skill.java
+C:\portfoliobackend\src\main\java\com\portfolio\portfolio_backend\PortfolioBackendApplication.java
+C:\portfoliobackend\src\main\java\com\portfolio\portfolio_backend\repository\ProfileRepository.java
+C:\portfoliobackend\src\main\java\com\portfolio\portfolio_backend\repository\ProjectRepository.java
+C:\portfoliobackend\src\main\java\com\portfolio\portfolio_backend\repository\SkillRepository.java
